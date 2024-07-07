@@ -1,3 +1,7 @@
+# Carregar pacotes
+library(ggplot2)
+library(dplyr)
+
 # Meta até junho de 2024
 meta_2024 <- data.frame(
   MES = c("jan", "fev", "mar", "abr", "mai", "jun"),
